@@ -1,0 +1,30 @@
+body {
+  background: #f0f0f0;
+  color: #3a4145;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.7em;
+  line-height: 1.6em;
+}
+h1{
+  color: #222;
+  
+  font-weight: bold;
+  text-align: center;
+
+}
+
+h2 {
+  color: #222;
+  font-size: 2em;
+  letter-spacing: -1px;
+  font-weight: bold;
+  line-height: 1.2em;
+  text-indent: -2px;
+}
+
+p{
+  color: #222;
+  font-size: 20px;
+  text-align: center;
+
+}

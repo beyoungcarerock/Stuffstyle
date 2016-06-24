@@ -1,0 +1,160 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px; 
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+header.carousel {
+    height: 70%;
+}
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.price {
+    display: block;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.price sup {
+    top: -20px;
+    left: 2px;
+    font-size: 20px;
+}
+
+.period {
+    display: block;
+    font-style: italic;
+}
+
+.navbar-inverse{
+    background-color: #292c2f;
+    border: 0px;
+}
+.col-lg-6{
+    width: 40%;
+    margin-top: 8px;
+    margin-left: 65px;  
+}
+.form-control{
+    background-color: #eee;
+}
+.btn-default{
+    background-color: #eee;
+}
+.dropdown-menu .divider {
+  height: 1px;
+  margin: 9px 0;
+  overflow: hidden;
+  background-color: #292c2f;
+}
+.dropdown-menu{
+    background-color: #292c2f;
+    color: #eee;
+}
+.img-responsive{
+    height: 300px;
+    text-decoration: none;
+}
+.col-md-3 a{
+    text-decoration: none;
+}
+.gold{
+    color: #FFBF00;
+}
+.product{
+    height: 321px;
+}
+
+.product-rating{
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.product-title{
+    font-size: 20px;
+}
+
+.product-desc{
+    font-size: 14px;
+}
+
+.product-price{
+    font-size: 22px;
+}
+
+.product-stock{
+    color: #74DF00;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.product-info{
+        margin-top: 50px;
+}
+.service1-item > img {
+    max-height: 100px;
+    max-width: 110px;
+    opacity: 0.6;  
+}
+.button-cart{
+    text-decoration: none;
+    color: white;
+}
+.button-cart:hover{
+    text-decoration: none;
+    color: white;
+}
+.cart{
+    color: black;
+}
+.cart:hover{
+    color: black;
+}
+.forms{
+    display: block;
+    width: 50px;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #eee;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+
+}
+.video{
+    width: 700px;
+}
+.row .col-md-4 h2{
+    text-align: center;
+}
+.row .col-md-4 a img{
+    margin: 0 auto;
+    padding-top: 15px;
+}
+.row .col-md-4 a{
+    text-decoration: none;
+}
